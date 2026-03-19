@@ -11,6 +11,9 @@
           <mxGeometry x="140" y="190" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FCD-SD_f4XqPpOHuKyak-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FCD-SD_f4XqPpOHuKyak-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="210" y="170" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
