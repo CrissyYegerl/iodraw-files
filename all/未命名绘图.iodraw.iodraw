@@ -10,10 +10,10 @@
         <mxCell id="FCD-SD_f4XqPpOHuKyak-5" value="&lt;h3&gt;栈&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="140" y="190" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FCD-SD_f4XqPpOHuKyak-8" value="&lt;h3&gt;堆&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="FCD-SD_f4XqPpOHuKyak-8" value="&lt;h3&gt;堆&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FCD-SD_f4XqPpOHuKyak-9" value="&lt;h3&gt;方法区&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="FCD-SD_f4XqPpOHuKyak-9" value="&lt;h3&gt;方法区&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
