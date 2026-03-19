@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FCD-SD_f4XqPpOHuKyak-3" value="&lt;h3 style=&quot;line-height: 130%;&quot;&gt;内存&lt;/h3&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="FCD-SD_f4XqPpOHuKyak-3" value="&lt;h3 style=&quot;line-height: 130%;&quot;&gt;内存&lt;/h3&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;labelPosition=left;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="40" y="70" width="470" height="260" as="geometry" />
         </mxCell>
       </root>
