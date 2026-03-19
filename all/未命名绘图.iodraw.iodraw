@@ -7,6 +7,9 @@
         <mxCell id="FCD-SD_f4XqPpOHuKyak-3" value="&lt;h2&gt;内存&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="110" y="140" width="470" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="FCD-SD_f4XqPpOHuKyak-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
