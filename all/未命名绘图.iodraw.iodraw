@@ -22,10 +22,10 @@
         <mxCell id="FCD-SD_f4XqPpOHuKyak-12" value="0" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FCD-SD_f4XqPpOHuKyak-14" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="FCD-SD_f4XqPpOHuKyak-14" value="0" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FCD-SD_f4XqPpOHuKyak-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FCD-SD_f4XqPpOHuKyak-15" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
