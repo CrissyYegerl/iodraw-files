@@ -28,8 +28,8 @@
         <mxCell id="FCD-SD_f4XqPpOHuKyak-15" value="0" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FCD-SD_f4XqPpOHuKyak-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="FCD-SD_f4XqPpOHuKyak-16" value="0x1102" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
