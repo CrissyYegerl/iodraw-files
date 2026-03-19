@@ -16,8 +16,8 @@
         <mxCell id="FCD-SD_f4XqPpOHuKyak-9" value="&lt;h3&gt;方法区&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="FCD-SD_f4XqPpOHuKyak-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="FCD-SD_f4XqPpOHuKyak-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
